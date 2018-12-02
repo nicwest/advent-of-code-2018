@@ -7,7 +7,7 @@ language choice will go autobiographically by day and rotate when I run out of
 languages:
 
 * Perl - [Day 1](01-chronal-calibration/)
-* PHP
+* PHP - [Day 2](02-inventory-management-system/)
 * Javascript
 * Python
 * Vimscript
