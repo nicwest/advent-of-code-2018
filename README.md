@@ -8,7 +8,7 @@ languages:
 
 * Perl - [Day 1](01-chronal-calibration/)
 * PHP - [Day 2](02-inventory-management-system/)
-* Javascript
+* Javascript - [Day 3](03-no-matter-how-you-slice-it/)
 * Python
 * Vimscript
 * Clojure
