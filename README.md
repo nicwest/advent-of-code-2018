@@ -10,7 +10,7 @@ languages:
 * PHP - [Day 2](02-inventory-management-system/)
 * Javascript - [Day 3](03-no-matter-how-you-slice-it/)
 * Python - [Day 4](04-repose-record/)
-* Vimscript
+* Vimscript - [Day 5](05-alchemical-reduction/)
 * Clojure
 * Ruby
 * C
