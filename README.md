@@ -11,8 +11,7 @@ languages:
 * Javascript - [Day 3](03-no-matter-how-you-slice-it/)
 * Python - [Day 4](04-repose-record/)
 * Vimscript - [Day 5](05-alchemical-reduction/)
-* Clojure
-* Ruby
+* Clojure - [Day 6](06-chronal-coordinates/)
 * C
 * Obj-C (openstep probably)
 * Go
