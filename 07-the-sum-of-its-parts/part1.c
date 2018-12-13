@@ -34,9 +34,6 @@ int main() {
         deps[B][A] = 1;
     }
 
-    int a = 0;
-    int b = 1/a;
-
     while(!all(nodes)) {
         for(int i=0; i<TOTAL_NODES; i++) {
             if(nodes[i])
