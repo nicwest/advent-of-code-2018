@@ -12,7 +12,7 @@ languages:
 * Python - [Day 4](04-repose-record/)
 * Vimscript - [Day 5](05-alchemical-reduction/)
 * Clojure - [Day 6](06-chronal-coordinates/)
-* C
+* C  - [Day 7](07-the-sum-of-its-parts/)
 * Obj-C (openstep probably)
 * Go
 * Scheme
