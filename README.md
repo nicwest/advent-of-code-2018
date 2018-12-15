@@ -13,7 +13,7 @@ languages:
 * Vimscript - [Day 5](05-alchemical-reduction/)
 * Clojure - [Day 6](06-chronal-coordinates/)
 * C  - [Day 7](07-the-sum-of-its-parts/)
-* Obj-C (openstep probably)
+* Obj-C - [Day 8](08-memory-maneuver/)
 * Go
 * Scheme
 
