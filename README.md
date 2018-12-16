@@ -14,7 +14,7 @@ languages:
 * Clojure - [Day 6](06-chronal-coordinates/)
 * C  - [Day 7](07-the-sum-of-its-parts/)
 * Obj-C - [Day 8](08-memory-maneuver/)
-* Go
+* Go - [Day 9](09-marble-mania/)
 * Scheme
 
 (Dreading PHP and Obj-C days)
