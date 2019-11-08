@@ -15,6 +15,6 @@ languages:
 * C  - [Day 7](07-the-sum-of-its-parts/)
 * Obj-C - [Day 8](08-memory-maneuver/)
 * Go - [Day 9](09-marble-mania/)
-* Scheme
+* Perl [Day 10](10-the-stars-align/)
 
 (Dreading PHP and Obj-C days)
